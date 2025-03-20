@@ -97,3 +97,5 @@ with st.sidebar:
 
 if selected : 
     menu_options[selected]() 
+else:
+    home()
